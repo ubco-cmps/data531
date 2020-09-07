@@ -49,7 +49,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 | Course     | DATA 531                                                         |
 | Term       | 2020/21 Winter Term 1                                            |
 | Lectures   | Online [Monday and Wednesday 11:00 - 12:30](https://ubc.zoom.us) |
-| Laboratory | Wednesday 12:30 - 15:30                                          |
+| Laboratory | Thursday 12:30 - 15:30                                           |
 | URL        | https://firas.moosvi.com/courses/data531                         |
 | Instructor | Firas Moosvi                                                     |
 | Office     | [Zoom](https://ubc.zoom.us)                                      |
@@ -88,10 +88,9 @@ Yes. To pass this course, you must:
 
 ## Course Learning Outcomes (AKA what will I learn in this course?)
 
-1. Install and setup a variety of software tools and programs used by data analysts
-2. Perform basic and advanced data analysis and visualization in Excel
-3. Able to setup IDEs and write small programs in Python and R
-4. Understand the pros and cons of each tool/software package and criteria to select the best tool for the job
+1. Understand fundamental programming concepts (conditions, loops, functions) and the syntax to use them in R and Python.
+2. Apply computational thinking to translate data analysis problems to Python and R code using libraries/modules as required to simplify implementation.
+3. Construct programs to read data, perform analysis, and output results.
 
 ```{tip}
 The full course schedule is available here: {ref}`page_Course_Schedule`

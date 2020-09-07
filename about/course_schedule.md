@@ -2,89 +2,102 @@
 Course Schedule
 =======================
 
-| Class # | Date                   | Course Topics                                                     | Readings  |
-| ------- | ---------------------- | ----------------------------------------------------------------- | --------- |
-| 1       | Wednesday September 9  | Course and Platform Introduction                                  | Lecture 1 |
-| 2       | Monday September 14    | Data Formats                                                      | Lecture 2 |
-| 3       | Wednesday September 16 | Introduction to Excel                                             | Lecture 3 |
-| 4       | Monday September 21    | Excel Data Analysis                                               | Lecture 4 |
-| 5       | Wednesday September 23 | Excel Macros and Automation                                       | Lecture 5 |
-| 6       | Monday September 28    | Online Services                                                   | Lecture 6 |
-| 7       | Wednesday September 30 | Quiz 1                                                            | Lecture 7 |
-| 8       | Monday October 5       | Debugging                                                         | Lecture 8 |
-| 9       | Wednesday October 7    | Quiz 2                                                            | Lecture 9 |
+| Class # | Date                   | Course Topics                                                | Readings  |
+|---------|------------------------|--------------------------------------------------------------|-----------|
+| 1       | Wednesday September 9  | Python Introduction and Data Types                           | Lecture 1 |
+| 2       | Monday September 14    | Python Conditions and Loops                                  | Lecture 2 |
+| 3       | Wednesday September 16 | Python Lists, Tuples, Dictionaries, and Functions            | Lecture 3 |
+| 4       | Monday September 21    | Python File I/O and Exceptions, Modules and Objects          | Lecture 4 |
+| 5       | Wednesday September 23 | Quiz 1                                                       | Lecture 5 |
+| 6       | Monday September 28    | Introduction to R and the tidyverse                          | Lecture 6 |
+| 7       | Wednesday September 30 | R Data Structures: Vectors, Lists, Matrices, and Data Frames | Lecture 7 |
+| 8       | Monday October 5       | R Hypothesis Testing and Linear Regression                   | Lecture 8 |
+| 9       | Wednesday October 7    | Quiz 2                                                       | Lecture 9 |
 
 ## Lecture Learning Outcomes
 
-1. Course and Platform Introduction
-	- understand MDS structure and goals
-	- list the different software used and their purpose
-	- define command line and list some of its uses
-	- know how to open the command line window on Mac OS and Windows
-	- define: file system, folder, file
-	- explain the difference between an absolute and relative path
-	- define Git/GitHub and explain why they are useful for analysts
-	- access the web interface of GitHub
-	- using command line clone repository, add files, commit changes, and push to origin
-	- view and edit text files directly on GitHub
+1. Introduction to R and Review of Basic Statistics
 
-2. Data Formats
-	- define: computer, software, memory, data, memory size/data size, cloud
-	- explain "Big Data" and describe data growth
-	- compare and contrast: digital versus analog
-	- briefly explain how integers, doubles, and strings are encoded
-	- explain why ASCII table is required for character encoding
-	- explain why Unicode is used in certain situations instead of ASCII
-	- explain the role of metadata for interpreting data
-	- define: file, file encoding, text file, binary file
-	- discuss the time-versus-space tradeoff
-	
-3. Introduction to Excel
-	- explain what a spreadsheet is
-	- explain how cells are addressed in a spreadsheet
-	- list some of the ways to select cells in a spreadsheet
-	- define and explain: formula, function, argument, concatenation
-	- use these functions: concatenate, lookup, index
-	- explain the difference between an absolute and relative address
-	- explain how an aggregate function works and list examples
-	- Evaluate and create conditions. Use IF() to make decisions.
-	- Explain how to use conditional formatting.
+	- understand purpose and usefulness of R and difference with Python
+	- define different types of data: qualitative, quantitative
+	- describe data use numerical summaries (measure of centre/spread)
+	- define and calculate: mean, median, variance, standard deviation, range
+	- define: quantile, quartile, interquartile range, five number summary	
+	- install and use RStudio
+	- set and get the working directory
+	- list the different types of data structures in the R language
+	- write small programs/commands in R that may use variables, conditions, loops, and functions
+	- use R to determine the type and structure of an object
 
-4. Excel Data Analysis
-	- explain how spreadsheets can be used as a database  
-	- use sorting and filtering
-	- create and edit charts and use chart features: trendlines, sparklines
-	- explain the usefulness of: what-if scenarios, goal seek, solver
-	- use and create pivot tables and charts	
-	- use the Analysis ToolPak including computing a regression
+2. R Data Structures: Vectors, Lists, Matrices, and Data Frames
+
+	- create, index, and subset vectors, lists, and matrices
+	- generate vectors of random data
+	- read in data sets from files
+	- use head and tail to explore a data set
+	- use data frames/factors for data analysis
+	- explain what factors are and why they are useful
+	- create graphs/visualizations: frequency table, bar chart, histogram, boxplot using base R and ggplot2
 	
-5. Excel Macros and Automation
-	- list some reasons to use Excel VBA
-	- define macro and explain the benefit of using macros
-	- be able to record and execute a macro
-	- explain the security issues with macros and how Excel deals with them
-	- list and explain the use of the four main windows of the Visual Basic Editor
-	- explain the role of the object browser
-	- use the Range object to select a group of cells
-	- create user-defined functions and use them in formulas
-	- understand that Excel structures everything as objects with methods and properties
+3. Python Introduction and Data Types
+
+	- understand Python 2 and Python 3 have some syntax differences
+	- follow Python syntax rules including indentation, variable naming, and comments
+	- define and compare: algorithm, language, program, programming
+	- list and explain when to use different Python data types
+	- perform math expressions and understand operator precedence
+	- create and execute a Python program in jupyter notebook
+	- perform printing to console for output	
+	- use string and string functions including string indexing, subsetting, and concatenation
+	- apply formatting for string output
+	- use date and time functions
+	- proficient in reading input from console and output results to console
+	
+4. Python Conditions and Loops
+
+	- create comparisons and use them for decisions with if
+	- combine conditions with and, or, not
+	- make decisions using if/elif/else syntax
+	- perform repetition using loop constructs for and while
 		
-6. Online Services
-	- explain motivation for a data analyst to use cloud services for their work.
-	- list some of the cloud service companies and the services they provide.
-	- use Slack for group communication.
-	- use Google Apps for collaborative document editing
-	- list some trade-offs of using cloud services versus building using in-house tools such as R and Python
-	- explain the role of Google Analytics and Google AdWords. Compare and contrast what these two services provide.
+5. Python Lists, Tuples, Dictionaries, and Functions
 
-7. Libraries, Documentation, and Help
-	- understand different resources and techniques for getting help in R and Python.
-	- read and apply standard documentation for R and Python.
-	- understand the importance of using libraries to improve code development efficiency and reliability.
-	- practice finding a library, reading its documentation, and applying its methods to solve a problem.
+	- create and use lists and list functions
+	- understand advance syntax for list comprehensions, list slicing
+	- create and use tuples and tuple functions
+	- create and use dictionaries
+	- explain the difference between tuples, lists, and dictionaries
+	- create and use Python functions with parameters and return a value from a function
+	- explain the benefit of using functions for program decomposition
+	- use built-in functions and functions in the math library including generating random numbers
+	- exposure to passing functions and lambda functions
 
-8. Debugging
-	- define: debugging
-	- list and explain the 4 key steps of debugging.
-	- list and identify three types of program errors: syntax errors, logic errors, and exceptions.
-	- be able to debug Python and R code.
+6. Python File I/O and Exceptions
+
+	- open, read, write, and close text files
+	- process CSV files including using the csv module
+	- understand and define web terminology including IPv4/IPv6 address, domain, domain name, URL
+	- read URLs using urllib.request
+	- explain the purpose of exceptions and exception handling
+	- use try-except statement to handle exceptions and understand how each of try, except, else, finally blocks are used
+	
+7. Python Modules and Objects
+	
+	- use object-oriented terminology: class, object, method, parameter, instance variable, inheritance, superclass, subclass
+	- create classes with methods
+	- instantiate objects ; call methods and access object properties
+	- know that Python supports inheritance when defining classes
+	- import Python modules and packages
+	- use Biopython module to retrieve NCBI data and perform BLAST
+	- build charts using matplotlib
+	- perform linear regression and k-means clustering using SciPy
+	- connect to and query the MySQL database using Python
+	- write simple Map-Reduce programs
+	- apply object methods using the dot syntax
+
+8. R Hypothesis Testing and Linear Regression
+
+	- explain the purpose of confidence intervals
+	- perform hypothesis testing using R
+	- understand assumptions inherent in a t-test
+	- compute linear models using R
