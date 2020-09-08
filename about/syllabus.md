@@ -57,10 +57,10 @@ Any major changes to the syllabus (this page) will be documented here as well as
 
 ## Contact the Teaching Team
 
-| Team Member                               | Pronounce as     | Contact | Office Hour |
-|-------------------------------------------|------------------|---------|-------------|
-| Dr. Firas Moosvi (he/his/him); Instructor | Fur-az Moose-vee | Slack   | TBD         |
-| Brandon Graham-Knight (); TA              |                  | Slack   | TBD         |
+| Team Member (Preferred pronouns) | Role       | Pronounce as     | Contact | Office Hour |
+|----------------------------------|------------|------------------|---------|-------------|
+| Dr. Firas Moosvi (he/his/him)    | Instructor | Fur-az Moose-vee | Slack   | TBD         |
+| Brandon Graham-Knight ()         | TA         |                  | Slack   | TBD         |
 
 (grading_practices)=
 ## How will I be evaluated in this course?
@@ -71,8 +71,8 @@ The grading scheme for this course is here:
 |----------|---------------|--------------------|
 | Clickers | 10%           | Every class        |
 | Labs     | 40% (4 x 10%) | Wednesdays at 6 PM |
-| Quiz 1   | 25%           | Sept 23, 2020       |
-| Quiz 2   | 25%           | Oct 7, 2020       |
+| Quiz 1   | 25%           | Sept 23, 2020      |
+| Quiz 2   | 25%           | Oct 7, 2020        |
 
 ```{attention} 
 All deadlines in this course (except Quizzes) have an automatic 48 hour grace period after the due dates listed above.
