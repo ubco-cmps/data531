@@ -4,6 +4,8 @@
 - part: About this course
   chapters:
     - file: about/course_schedule
+    - file: about/reference
+      title: Reference Materials
 
 - part: Getting started!
   chapters:
@@ -17,14 +19,14 @@
 
 - part: Lectures
   chapters:
-    - file: class/topic1
-      title: Lecture 1 - Topic
-    # - file: class/topic2
-    #   title: Lecture 2 - Topic
-    # - file: class/topic3
-    #   title: Lecture 3 - Topic
-    # - file: class/topic4
-    #   title: Lecture 4 - Topic
+    - file: class/lecture1
+      title: Lecture 1 - Introduction to Python
+    - file: class/lecture2
+      title: Lecture 2 - Functions in Python
+    - file: class/lecture3
+      title: Lecture 3 - Style and numpy
+    - file: class/lecture4
+      title: Lecture 4 - Classes and modules
     # - file: class/topic5
     #   title: Lecture 5 - Topic
     # - file: class/topic6
