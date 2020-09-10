@@ -38,8 +38,10 @@
 
 - part: Labs
   chapters:
-    - file: class/labs
-      title: Lab 1
+    - file: labs/intro
+      title: Start here!
+    - file: labs/lab1
+      title: Lab 1 - Python Functions, Lists, and Dictionaries
 
 - part: Practice Problems
   chapters:
@@ -68,9 +70,9 @@
         - file: practice/13_debugging_exercise
           title: 11. Debugging
 
-- part: Quiz Preparation
-  chapters:
-    - file: quiz1_prep
-      title: Quiz 1 Preparation
-    - file: quiz2_prep
-      title: Quiz 2 Preparation
+# - part: Quiz Preparation
+#   chapters:
+#     - file: quiz1_prep
+#       title: Quiz 1 Preparation
+#     - file: quiz2_prep
+#       title: Quiz 2 Preparation
