@@ -59,7 +59,7 @@ Any major changes to the syllabus (this page) will be documented here as well as
 
 | Team Member (Preferred pronouns)   | Role       | Pronounce as     | Contact                                                | Office Hour |
 |------------------------------------|------------|------------------|--------------------------------------------------------|-------------|
-| Dr. Firas Moosvi (he/his/him)      | Instructor | Fur-az Moose-vee | Slack                                                  | TBD         | 
+| Dr. Firas Moosvi (he/his/him)      | Instructor | Fur-az Moose-vee | Slack                                                  | TBD         |
 | Brandon Graham-Knight (he/his/him) | TA         | Buh-ran-don      | Slack, [e-mail](mailto:brandon.graham-knight@ubc.ca)   | NA          |
 
 (grading_practices)=
