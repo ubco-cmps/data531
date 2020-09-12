@@ -57,10 +57,10 @@ Any major changes to the syllabus (this page) will be documented here as well as
 
 ## Contact the Teaching Team
 
-| Team Member (Preferred pronouns)   | Role       | Pronounce as     | Contact                                                | Office Hour |
-|------------------------------------|------------|------------------|--------------------------------------------------------|-------------|
-| Dr. Firas Moosvi (he/his/him)      | Instructor | Fur-az Moose-vee | Slack                                                  | TBD         |
-| Brandon Graham-Knight (he/his/him) | TA         | Buh-ran-don      | Slack, [e-mail](mailto:brandon.graham-knight@ubc.ca)   | TBD         |
+| Team Member (Preferred pronouns)   | Role       | Pronounce as     | Contact                                                | Office Hour                   |
+|------------------------------------|------------|------------------|--------------------------------------------------------|-------------------------------|
+| Dr. Firas Moosvi (he/his/him)      | Instructor | Fur-az Moose-vee | Slack                                                  | TBD                           | 
+| Brandon Graham-Knight (he/his/him) | TA         | Buh-ran-don      | Slack, [e-mail](mailto:brandon.graham-knight@ubc.ca)   | Tuesday 8 - 9 AM Kelowna Time |
 
 (grading_practices)=
 ## How will I be evaluated in this course?
