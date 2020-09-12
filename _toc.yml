@@ -4,6 +4,8 @@
 - part: About this course
   chapters:
     - file: about/course_schedule
+    - file: about/reference
+      title: Reference Materials
 
 - part: Getting started!
   chapters:
@@ -17,14 +19,14 @@
 
 - part: Lectures
   chapters:
-    - file: class/topic1
-      title: Lecture 1 - Topic
-    # - file: class/topic2
-    #   title: Lecture 2 - Topic
-    # - file: class/topic3
-    #   title: Lecture 3 - Topic
-    # - file: class/topic4
-    #   title: Lecture 4 - Topic
+    - file: class/lecture1
+      title: Lecture 1 - Introduction to Python
+    - file: class/lecture2
+      title: Lecture 2 - Functions in Python
+    - file: class/lecture3
+      title: Lecture 3 - Style and numpy
+    - file: class/lecture4
+      title: Lecture 4 - Classes and modules
     # - file: class/topic5
     #   title: Lecture 5 - Topic
     # - file: class/topic6
@@ -36,12 +38,41 @@
 
 - part: Labs
   chapters:
-    - file: class/labs
-      title: Lab 1
+    - file: labs/intro
+      title: Start here!
+    - file: labs/lab1
+      title: Lab 1 - Python Functions, Lists, and Dictionaries
 
-- part: Quiz Preparation
+- part: Practice Problems
   chapters:
-    - file: quiz1_prep
-      title: Quiz 1 Preparation
-    - file: quiz2_prep
-      title: Quiz 2 Preparation
+    - file: practice/intro
+      sections:
+        - file: practice/01_strings_exercise
+          title: 1. Strings
+        - file: practice/02_numbers_exercise
+          title: 2. Numbers
+        - file: practice/03_conditionals_exercise
+          title: 3. Conditionals
+        - file: practice/04_lists_exercise
+          title: 4. Lists
+        - file: practice/05_dictionaries_exercise
+          title: 5. Dictionaries
+        - file: practice/06_for_loops_exercise
+          title: 6. Loops
+        - file: practice/07_functions_exercise
+          title: 7. Functions
+        - file: practice/10_file_io_exercise
+          title: 8. File input/output
+        - file: practice/11_classes_exercise
+          title: 9. Classes
+        - file: practice/12_exceptions_exercise
+          title: 10. Exceptions
+        - file: practice/13_debugging_exercise
+          title: 11. Debugging
+
+# - part: Quiz Preparation
+#   chapters:
+#     - file: quiz1_prep
+#       title: Quiz 1 Preparation
+#     - file: quiz2_prep
+#       title: Quiz 2 Preparation
