@@ -42,7 +42,8 @@
       title: Start here!
     - file: labs/lab1
       title: Lab 1 - Python Functions, Lists, and Dictionaries
-
+    - file: labs/lab2
+      title: Lab 2 - Python 2
 - part: Practice Problems
   chapters:
     - file: practice/intro
