@@ -27,14 +27,14 @@
       title: Lecture 3 - Style and numpy
     - file: class/lecture4
       title: Lecture 4 - Classes and modules
-    # - file: class/topic5
-    #   title: Lecture 5 - Topic
-    # - file: class/topic6
-    #   title: Lecture 6 - Topic
-    # - file: class/topic7
-    #   title: Lecture 7 - Topic
-    # - file: class/topic8
-    #   title: Lecture 8 - Topic
+    - file: class/topic5
+      title: Lecture 5 - Introduction to R and the Tidyverse
+    - file: class/topic6
+      title: Lecture 6 - Functions and Testing in R
+    - file: class/topic7
+      title: Lecture 7 - Functional-style programming in R
+    - file: class/topic8
+      title: Lecture 8 - Tidy evaluation in R
 
 - part: Labs
   chapters:
