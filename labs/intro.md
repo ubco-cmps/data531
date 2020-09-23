@@ -10,7 +10,7 @@ Once the lab is ready for you to accept, click the below to accept the lab:
 |-----------------------------------------------------------|-----------------------------|-------------------------------------------------------|
 | [Lab 1 - Python Functions, Lists, and Dictionaries](lab1) | Thurs September 17 at 18:00 | [Accept Lab](https://classroom.github.com/a/8lbFlm9e) |
 | [Lab 2 - Python 2](lab2) | Thurs September 24 at 18:00 | [Accept Lab](https://classroom.github.com/a/ateu5b2X)                                                  |
-| Lab 3 - TBD                                               | Thurs October 1 at 18:00    | []()                                                  |
+| Lab 3 - Introduction to R                                               | Thurs October 1 at 18:00    | [Accept Lab](https://classroom.github.com/a/Y0AQt04Y)                                                  |
 | Lab 4 - TBD                                               | Thurs October 8 at 18:00    | []()                                                  |
 
 Once you click the link, a repository will automatically be created for you with some starter code.
