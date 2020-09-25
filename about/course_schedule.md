@@ -8,8 +8,8 @@ Course Schedule
 | 2       | Monday September 14    | Python Conditions and Loops                                  | Lecture 2 |
 | 3       | Wednesday September 16 | Python Lists, Tuples, Dictionaries, and Functions            | Lecture 3 |
 | 4       | Monday September 21    | Python File I/O and Exceptions, Modules and Objects          | Lecture 4 |
-| 5       | Wednesday September 23 | Quiz 1                                                       | Lecture 5 |
-| 6       | Monday September 28    | Introduction to R and the tidyverse                          | Lecture 6 |
+| 5       | Wednesday September 23 | Introduction to R and the tidyverse                          | Lecture 5 |
+| 6       | Monday September 28    | Quiz 1								                          | Lecture 6 |
 | 7       | Wednesday September 30 | R Data Structures: Vectors, Lists, Matrices, and Data Frames | Lecture 7 |
 | 8       | Monday October 5       | R Hypothesis Testing and Linear Regression                   | Lecture 8 |
 | 9       | Wednesday October 7    | Quiz 2                                                       | Lecture 9 |
