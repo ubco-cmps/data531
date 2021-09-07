@@ -24,6 +24,10 @@ jobs:
       with:
         path: ${{ env.pythonLocation }}
         key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
         
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v1
@@ -32,9 +36,6 @@ jobs:
     - run: Rscript -e "install.packages('IRkernel')"
     - run: Rscript -e "IRkernel::installspec()"
     
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
     # Build the book
     - name: Build the book
       run: |
