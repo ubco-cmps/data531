@@ -19,11 +19,17 @@ jobs:
       with:
         python-version: 3.9
         
+    - name: cache installation
+      uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('setup.py') }}-${{ hashFiles('requirements.txt') }}
+        
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@v1
       with:
         r-version: '4.1' # The R version to download (if necessary) and use.
-    - run: Rscript -e 'install.packages('IRkernel');IRkernel::installspec()'
+    - run: Rscript -e "install.packages('IRkernel');IRkernel::installspec()"
         
     - name: Install dependencies
       run: |
