@@ -4,7 +4,7 @@ name: deploy-book
 on:
   push:
     branches:
-    - master
+    - main
 
 # This job installs dependencies, build the book, and pushes it to `gh-pages`
 jobs:
@@ -19,11 +19,6 @@ jobs:
       with:
         python-version: 3.7
         
-    - name: Set up R
-      uses: actions/setup-r@v1
-      with:
-        r-version: '3.5.3' # The R version to download (if necessary) and use.
-
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
@@ -41,6 +36,7 @@ jobs:
         REMOTE_DIR: ${{ secrets.REMOTE_TARGET }}
         LOCAL_DIR: "_build/html/"
         COURSE_NAME: "data531"
+        TERM: "2021_WT1"
       run: |
         mkdir ~/.ssh
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
@@ -48,4 +44,4 @@ jobs:
         chmod 600 ~/.ssh/id_rsa
         pwd
         ls -la
-        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/$COURSE_NAME
+        rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:$REMOTE_DIR/courses/$TERM/$COURSE_NAME
