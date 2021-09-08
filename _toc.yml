@@ -7,6 +7,10 @@ parts:
   - file: about/syllabus_bits/course_schedule
     title: Course Schedule and Learning Outcomes
   - file: about/accommodations
+- caption: Classes
+  chapters:
+  - file: class/lecture1
+    title: Lecture 1 - Introduction to Jupyter Notebook and Python
 
 # - caption: Getting started!
 #   chapters:
@@ -16,10 +20,7 @@ parts:
 #   chapters:
 #   - file: about/feedback
 #     title: Anonymous Feedback Form
-# - caption: Lectures
-#   chapters:
-#   - file: class/lecture1
-#     title: Lecture 1 - Introduction to Python
+
 #   - file: class/lecture2
 #     title: Lecture 2 - Functions in Python
 #   - file: class/lecture3
