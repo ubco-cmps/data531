@@ -1,7 +1,4 @@
-(page_Course_Schedule)=
-Course Schedule
-=======================
-
+## Schedule
 | Class # | Date                   | Course Topics                                                |
 |---------|------------------------|--------------------------------------------------------------|
 | 1       | Wednesday September 8  | Python Introduction and Data Types                           |
@@ -13,6 +10,10 @@ Course Schedule
 | 7       | Wednesday September 29 | R Data Structures: Vectors, Lists, Matrices, and Data Frames |
 | 8       | Monday October 4       | R Hypothesis Testing and Linear Regression                   |
 | 9       | Wednesday October 6    | Quiz 2                                                       |
+
+```{note}
+Data 531 Labs are on Wednesdays. To help students in other time zones, we use two time slots for the labs: 8:30 am - 9:30 am and 13:30 pm - 15:30 pm. In later blocks as more of us transition to face-to-face, the morning slot may be deprecated. TAs will be using Zoom for the labs.
+```
 
 ## Learning Outcomes
 	

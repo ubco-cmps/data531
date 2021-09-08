@@ -49,15 +49,17 @@ We would love to hear about you, what your interests are, and if you need any ca
 
 A few other notes:
 
-- We will be using {{ FORUM_LINK }} for Announcements in this course.
+- We will be using {{ FORUM_LINK }} and Canvas for Announcements in this course.
 - For **all** course-related questions you can reach out to the teaching team including instructors and TAs via {{ FORUM_LINK }}.
 - You are encouraged to post questions publicly whenever possible so others can benefit. For private and personal issues, you can send private messages on {{ FORUM_LINK }}.
 - Any student may visit the student hour for any member of the teaching team (TA or instructor)! In other words, you can go to the student hour of ANY TA, not just the one whose lab/tutorial you are registered in. 
 
+<!--
 ### Why should I take {{ COURSE_CODE }}?
 
 ```{include} syllabus_bits/course_teaser.md
 ```
+-->
 
 ## Unsyllabus changes
 
