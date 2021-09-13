@@ -30,13 +30,13 @@ parts:
   - file: labs/intro
     title: Start here!
   - file: labs/lab1
-    title: Lab 1 - Data Science Stack
+    title: Lab 1 - Python Functions, Lists, and Dictionaries
   - file: labs/lab2
-    title: Lab 2 - Bashcrawl
+    title: Lab 2 - Python 2
   - file: labs/lab3
-    title: Lab 3 - Introduction to Excel
+    title: Lab 3 - Introduction to R
   - file: labs/lab4
-    title: Lab 4 - Advanced Excel
+    title: Lab 4 - Programming in R
 # - caption: Practice Problems
 #   chapters:
 #   - file: practice/intro
