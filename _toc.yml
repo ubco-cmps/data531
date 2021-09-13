@@ -35,16 +35,18 @@ parts:
 #     title: Lecture 7 - Functional-style programming in R
 #   - file: class/lecture8
 #     title: Lecture 8 - Tidy evaluation in R
-# - caption: Labs
-#   chapters:
-#   - file: labs/intro
-#     title: Start here!
-#   - file: labs/lab1
-#     title: Lab 1 - Python Functions, Lists, and Dictionaries
-#   - file: labs/lab2
-#     title: Lab 2 - Python 2
-#   - file: labs/lab3
-#     title: Lab 3 - Intro to R
+- caption: Labs
+  chapters:
+  - file: labs/intro
+    title: Start here!
+  - file: labs/lab1
+    title: Lab 1 - Data Science Stack
+  - file: labs/lab2
+    title: Lab 2 - Bashcrawl
+  - file: labs/lab3
+    title: Lab 3 - Introduction to Excel
+  - file: labs/lab4
+    title: Lab 4 - Advanced Excel
 # - caption: Practice Problems
 #   chapters:
 #   - file: practice/intro
