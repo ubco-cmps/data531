@@ -5,11 +5,11 @@
 | 2       | Monday September 13    | Python Conditions and Loops                                  |
 | 3       | Wednesday September 15 | Python Lists, Tuples, Dictionaries, and Functions            |
 | 4       | Monday September 20    | Python File I/O and Exceptions, Modules and Objects          |
-| 5       | Wednesday September 22 | Introduction to R and the tidyverse                          |
-| 6       | Monday September 27    | Quiz 1								                          |
+| 5       | Wednesday September 22 | Continuing last lecture                                      |
+| 6       | Monday September 27    | Introduction to R and the tidyverse [Quiz 1 done remotely]   |
 | 7       | Wednesday September 29 | R Data Structures: Vectors, Lists, Matrices, and Data Frames |
-| 8       | Monday October 4       | R Hypothesis Testing and Linear Regression                   |
-| 9       | Wednesday October 6    | Quiz 2                                                       |
+| 8       | Monday October 4       | **Extra Office Hours**                                       |
+| 9       | Wednesday October 6    | **Extra Office Hours** [Quiz 2 done remotely]                |
 
 ```{note}
 Data 531 Labs are on Wednesdays. To help students in other time zones, we use two time slots for the labs: 8:30 am - 9:30 am and 13:30 pm - 15:30 pm. In later blocks as more of us transition to face-to-face, the morning slot may be deprecated. TAs will be using Zoom for the labs.
@@ -96,7 +96,7 @@ Data 531 Labs are on Wednesdays. To help students in other time zones, we use tw
 	- explain what factors are and why they are useful
 	- create graphs/visualizations: frequency table, bar chart, histogram, boxplot using base R and ggplot2
 
-9. R Hypothesis Testing and Linear Regression
+9. R Hypothesis Testing and Linear Regression [Optional]
 
 	- explain the purpose of confidence intervals
 	- perform hypothesis testing using R
