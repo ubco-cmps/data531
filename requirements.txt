@@ -2,3 +2,4 @@ jupyter
 jupyter-book
 matplotlib
 numpy
+jupyterlite_sphinx
